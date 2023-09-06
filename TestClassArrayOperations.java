@@ -20,6 +20,7 @@ public class TestClassArrayOperations {
       System.out.println("6. Insert Elements");
       System.out.println("7. Delete Elements");
       System.out.println("8. Search for an Element - Predefined");
+      System.out.println("9. End Program");
       System.out.println("________________________________");
       System.out.println("");
       System.out.println("  Please input your selection: ");
